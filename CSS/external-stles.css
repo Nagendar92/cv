@@ -1,0 +1,22 @@
+
+  body{
+    background-color: PowderBlue;
+  }
+  h1{
+    color:red;
+  }
+  h3{
+    color:red;
+  }
+  hr{
+    background-color: white;
+    border-style: none;
+    border-color: grey;
+    border-top-style: dotted;
+    border-width: 5px;
+    height: 2px;
+    width: 5%;
+  }
+  /* img{
+    height: 20px;
+  } */
